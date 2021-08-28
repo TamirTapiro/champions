@@ -1,0 +1,218 @@
+{
+
+    "A":[
+            {
+                "name": "Man City",
+                "rank": 1,
+                "country": "ENG",
+                "img_path": "assets/man_city.webp"            
+            },
+            {
+                "name": "PSG",
+                "rank": 2,
+                "country": "FRA",
+                "img_path": "assets/psg.webp"
+            },
+            {
+                "name": "Leipzig",
+                "rank": 3,
+                "country": "GER",
+                "img_path": "assets/leipzig.webp"
+            },
+            {
+                "name": "Club Brugge",
+                "rank": 4,
+                "country": "BEL",
+                "img_path": "assets/club_brugge.webp"
+            }
+    ],
+
+    "B":[
+            {
+                "name": "Atletico",
+                "rank": 1,
+                "country": "ESP",
+                "img_path": "assets/atletico.webp"
+            },
+            {
+                "name": "Liverpool",
+                "rank": 2,
+                "country": "ENG",
+                "img_path": "assets/man_city.webp"
+            },
+            {
+                "name": "Porto",
+                "rank": 3,
+                "country": "POR",
+                "img_path": "assets/leipzig.webp"
+            },
+            {
+                "name": "Milan",
+                "rank": 4,
+                "country": "ITA",
+                "img_path": "assets/club_brugge.webp"
+            }
+    ],
+
+    "C":[
+        {
+            "name": "Sporting",
+            "rank": 1,
+            "country": "POR",
+            "img_path": "assets/psg.webp"
+        },
+        {
+            "name": "Dortmund",
+            "rank": 2,
+            "country": "GER",
+            "img_path": "assets/Dortmund.webp"
+        },
+        {
+            "name": "Ajax",
+            "rank": 3,
+            "country": "NED",
+            "img_path": "assets/ajax.webp"
+        },
+        {
+            "name": "Besiktas",
+            "rank": 4,
+            "country": "TUR",
+            "img_path": "assets/besiktas.webp"
+        }
+    ],
+
+    "D":[
+        {
+            "name": "Inter",
+            "rank": 1,
+            "country": "ITA",
+            "img_path": "assets/psg.webp"
+        },
+        {
+            "name": "Real Madrid",
+            "rank": 2,
+            "country": "ESP",
+            "img_path": "assets/man_city.webp"
+        },
+        {
+            "name": "Shakhtar Donetsk",
+            "rank": 3,
+            "country": "UKR",
+            "img_path": "assets/leipzig.webp"
+        },
+        {
+            "name": "Sheriff",
+            "rank": 4,
+            "country": "MDA",
+            "img_path": "assets/club_brugge.webp"
+        }
+    ],
+    "E":[
+        {
+            "name": "Bayern",
+            "rank": 1,
+            "country": "GER",
+            "img_path": "assets/bayern.webp"            
+        },
+        {
+            "name": "Barcelona",
+            "rank": 2,
+            "country": "ESP",
+            "img_path": "assets/barcelona.webp"
+        },
+        {
+            "name": "Benfica",
+            "rank": 3,
+            "country": "POR",
+            "img_path": "assets/benfica.webp"
+        },
+        {
+            "name": "Dynamo Kyiv",
+            "rank": 4,
+            "country": "UKR",
+            "img_path": "assets/club_brugge.webp"
+        }
+    ],
+
+    "F":[
+            {
+                "name": "Villarreal",
+                "rank": 1,
+                "country": "ESP",
+                "img_path": "assets/psg.webp"
+            },
+            {
+                "name": "Man United",
+                "rank": 2,
+                "country": "ENG",
+                "img_path": "assets/man_city.webp"
+            },
+            {
+                "name": "Atalanta",
+                "rank": 3,
+                "country": "ITA",
+                "img_path": "assets/atalanta.webp"
+            },
+            {
+                "name": "Young Boys",
+                "rank": 4,
+                "country": "SUI",
+                "img_path": "assets/club_brugge.webp"
+            }
+    ],
+
+    "G":[
+        {
+            "name": "LOSC",
+            "rank": 1,
+            "country": "FRA",
+            "img_path": "assets/psg.webp"
+        },
+        {
+            "name": "Sevilla",
+            "rank": 2,
+            "country": "ESP",
+            "img_path": "assets/man_city.webp"
+        },
+        {
+            "name": "Salzburg",
+            "rank": 3,
+            "country": "AUT",
+            "img_path": "assets/leipzig.webp"
+        },
+        {
+            "name": "Wolfsburg",
+            "rank": 4,
+            "country": "GER",
+            "img_path": "assets/club_brugge.webp"
+        }
+    ],
+
+    "H":[
+        {
+            "name": "Chelsea",
+            "rank": 1,
+            "country": "ENG",
+            "img_path": "assets/Chelsea.webp"
+        },
+        {
+            "name": "Juventus",
+            "rank": 2,
+            "country": "ITA",
+            "img_path": "assets/man_city.webp"
+        },
+        {
+            "name": "Zenit",
+            "rank": 3,
+            "country": "RUS",
+            "img_path": "assets/leipzig.webp"
+        },
+        {
+            "name": "Malmo",
+            "rank": 4,
+            "country": "SWE",
+            "img_path": "assets/club_brugge.webp"
+        }
+    ]
+       
+}

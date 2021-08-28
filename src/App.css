@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  background-image: url("https://wallpaper.dog/large/10891240.jpg");
+  height: 100%;
+  width: 100%;
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .App-logo {
