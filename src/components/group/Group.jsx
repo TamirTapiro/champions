@@ -4,7 +4,7 @@ import "./group.scss"
 export default function Group(props) {
     // console.log(props);
     return (
-        <div className="container-fluid group p-2">
+        <div className="container-fluid group p-2 min-vw-30">
             <div className="row">
                 <div className="groupName">
                     {props.group.id}

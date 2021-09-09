@@ -7,7 +7,7 @@ export default function Team(props) {
             <div className="team">
                 <div className="row teamWrapper border">
                     <div className="col-1">
-                        <img src={"assets/imgs/" + props.team.name + ".webp"}
+                        <img src={"assets/imgs/groups/" + props.team.name + ".webp"}
                         alt={props.team.name} />
                     </div>
                     <div className="col-5 teamName pull-right">

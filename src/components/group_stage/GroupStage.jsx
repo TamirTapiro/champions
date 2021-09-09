@@ -45,22 +45,6 @@ export default function GroupStage() {
                         )
                     )
                 }
-                    {/* <div className="col-xs-12 col-sm-12 col-md-6 col-xl-3">
-                        <Group />
-                        <p>{tmp}</p>
-                        
-                    </div>
-
-                    <div className="col-xs-12 col-sm-12 col-md-6 col-xl-3">
-                        <Group />
-                    </div>
-                    <div className="col-xs-12 col-sm-12 col-md-6 col-xl-3">
-                        <Group />
-                    </div>
-
-                    <div className="col-xs-12 col-sm-12 col-md-6 col-xl-3">
-                        <Group />
-                    </div> */}
             </div>
             <br/>      
         </div>

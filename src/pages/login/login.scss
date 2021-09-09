@@ -1,0 +1,31 @@
+.container{
+    position: absolute;
+    top: 100px !important;
+    right: 0;
+    left: 0;
+    width: 80%;
+    align-content: center;
+    align-items: center;
+
+    .row{
+        justify-content: center;
+    }
+
+    h1{
+        color: white;
+        font-weight: 700;
+        
+    }
+
+    .login-wrapper{
+        // display: flex;
+        position: relative;
+        background-color: white;
+        opacity: 0.8;
+        border-radius: 20px;
+        align-content: center;
+        align-items: center;
+    }
+
+}
+

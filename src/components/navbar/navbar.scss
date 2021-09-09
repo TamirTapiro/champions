@@ -1,11 +1,43 @@
 .navbar{
-    position: fixed;
     width: 100%;
+    height: 50px;
+    position: fixed;
+    color: white;
+    background-image: linear-gradient(
+        140deg
+        , #684cae 0%, #5e2db1 50%, 
+        #761589 75%);
+    opacity: 0.85;
     top: 0;
     z-index: 100;
+    // min-width: 410px;
+    font-weight: 500;
+
+    .navbar-collapse{
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        text-align: start;
+        margin-right: 175px;
+    }
+
+    .nav-item{
+        padding: 5px;
+    }
+
+    .navbar-brand{
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 0;
+    }
+    
+    span{
+        font-weight: 500;
+        font-size: 1.2rem;
+    }
 
     img{
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
     }
 }
